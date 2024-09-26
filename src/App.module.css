@@ -1,0 +1,36 @@
+
+  .app {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: left;
+   
+  }
+  
+  h1 {
+    margin-bottom: 20px; 
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #000;
+    
+    margin-bottom: 10px; 
+  }
+  
+  .userList {
+   
+    border: 1px solid #000; 
+  }
+  
+  .userItem {
+    padding: 10px;
+    
+    border-bottom: 1px solid #ccc; 
+    text-align: left; 
+  }
+  
+  .userItem:last-child {
+    border-bottom: none; 
+  }

@@ -1,0 +1,10 @@
+.filter {
+    margin-bottom: 70px;
+    
+  }
+  .filter input {
+    width:75%; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+  }
